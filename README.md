@@ -95,11 +95,9 @@ pip install -r requirements.txt
 
 # 🔑 Setup Environment Variables
 
-Create a `.env` file in the project root.
+download Ollama, and pull a suitable model according to your work load!!
 
-```
-OPENAI_API_KEY=your_api_key_here
-```
+import that model in your code, smaller model = Faster responce.
 
 ⚠️ Never push `.env` to GitHub.
 
@@ -153,3 +151,4 @@ Developed with ❤️ by **Lens_Craft_PDF**
 ---
 
 ⭐ If you like this project, consider **starring the repository**!
+
